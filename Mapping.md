@@ -1,9 +1,9 @@
-1.
-2.
-3.
-4.
-5.
-6.
+1. Aldamir
+2. Anborn
+3. Aratan
+4. Barahir 
+5. Baranor
+6. Cemendur
 7.
 8.
 9.
@@ -17,7 +17,7 @@
 17.
 18.
 19.
-20. Fridolinas
+20. Finduilas
 21.
 22.
 23.
